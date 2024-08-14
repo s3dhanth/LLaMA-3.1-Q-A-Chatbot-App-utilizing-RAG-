@@ -1,4 +1,4 @@
-# Enhancing peforance of LLaMA 3.1 through Retrieval augmented generation
+# Enhancing performance of LLaMA 3.1 through Retrieval augmented generation
 
 This repository contains a Gradio application for an enhanced Retrieval aungmented generation Q&A bot that leverages LLaMA 3.1 and Chromadb Admin with Docker Integration. The app allows users to interact with the Model and get responses based on their queries.
 
