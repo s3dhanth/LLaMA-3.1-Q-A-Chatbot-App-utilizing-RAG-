@@ -1,11 +1,9 @@
-# Fine Tuning Pegasus for Text Summarization 
+# Enhancing peforance of LLaMA 3.1 through Retrieval augmented generation
 
 This repository contains a Gradio application for an enhanced Retrieval aungmented generation Q&A bot that leverages LLaMA 3.1 and Chromadb Admin with Docker Integration. The app allows users to interact with the Model and get responses based on their queries.
 
 ## DataSet
 
-- SAMSum datase
-t contains about 16k messenger-like conversations with summaries
 - Data1: History of Tuscan-inspired sanctuary
 - Data2: History of Giovanni
 - Data3: Different Cuisine of Bella Vista
